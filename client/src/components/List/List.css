@@ -1,0 +1,9 @@
+.card {
+    margin: 30px;
+    width: 350px;
+    float: left;
+}
+
+#xButton {
+    float: right;
+}

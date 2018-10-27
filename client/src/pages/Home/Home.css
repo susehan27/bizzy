@@ -1,0 +1,42 @@
+.first {
+    background-color: #FF7D5A;
+}
+#logo {
+    width: 100%;
+    height: 100%;
+}
+.bio {
+    margin: 100px;
+}
+.intro {
+    font-size: 18px;
+}
+#bizzyBee {
+    width: 70px;
+    height: 70px;
+    margin: 20px;
+}
+.container-fluid {
+    font-family: 'Roboto Condensed', sans-serif;
+    height: auto;
+}
+.whyBox {
+    background-color: #2090b7;
+    width: 100%;
+    border-radius: 10px;
+    color: white;
+    padding: 20px;
+}
+
+.why {
+    left: 0;
+}
+.second {
+    background-color: #2090b7;
+
+}
+.third {
+    background-color: #283644;
+    color: white;
+}
+
